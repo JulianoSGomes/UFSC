@@ -9,6 +9,8 @@ Projetos feitos durante graduação em Engenharia de Computação UFSC
 * [Projeto Ubíquos](https://github.com/JulianoSGomes/Projeto-Ubiquos)
 * [Linguagem e Descrição de Hardware](https://github.com/JulianoSGomes/VHDL)
 * [Sistemas Digitais Embarcados](https://github.com/JulianoSGomes/stm32f4discovery)
+* [Arquitetura de Sistemas Operacionais - C File System](https://github.com/jonathansn/filesystem_C)
+* [Arquitetura de Sistemas Operacionais - Cloud Server Multithread](https://github.com/jonathansn/cloud_server_multithread)
 
 ## Mini Curso de Python3 
-[Acessar](https://github.com/JulianoSGomes/minicurso-python)
+* [Acessar](https://github.com/JulianoSGomes/minicurso-python)
